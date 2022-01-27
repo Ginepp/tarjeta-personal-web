@@ -1,13 +1,14 @@
 body{
     text-align: center;
     background: url(../fondo.jpg);
-    color: #111;
+    color: #fff;
     font-family:'Bebas Neue', cursive;
     }
 
+
     .contenedor{
      
-      background-color: #fff;
+      background-color: rgba(22, 22, 25, 0.7);
       display: inline-block;
       align-content: center;
       justify-content: flex-start;
